@@ -1,0 +1,66 @@
+.slider_plugin .viz_control {
+   
+    padding:2px;
+    color:white;
+    background:black;
+    margin:2px;
+    font-weight:900;
+    cursor:pointer;
+    width:25px;
+    text-align:center;
+}
+.slider_plugin .viz_controls {
+    position:absolute;
+    bottom:60px;
+    right:30px;
+}
+.slider_plugin .viz_title {
+    font-size:.75em;
+    font-family:helvetica;
+}
+.slider_plugin #viz_thumbnails {
+    position:relative;
+   
+    overflow:hidden;
+}
+.slider_plugin .left_arrow {
+    background:black;
+    float:left;
+}
+.slider_plugin .right_arrow {
+    background:black;
+    float:right;
+}
+.slider_plugin .viz_thumbnails {
+    overflow:hidden;
+    position:relative;
+}
+.slider_plugin .grayed_out {
+    background:#ccc;
+}
+
+.slider_plugin .viz_preview {
+    margin-top:50px;
+}
+.slider_plugin .viz_preview img {
+
+}
+.slider_plugin .viz_title {
+    color: black;
+    font-size: .8em;
+    margin: 2px;
+
+}
+.slider_plugin #viz_description {
+    position: absolute;
+    bottom: -45px;
+    opacity: .8;
+    background: black;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    width: 98%;
+    margin-top:10px;
+    
+}
